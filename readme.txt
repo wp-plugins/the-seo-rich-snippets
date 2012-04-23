@@ -19,6 +19,8 @@ e.g.
 
 == Screenshots ==
 
+1. Google result page with the keyword "nuoc hoa".
+2. The SEO Rich Snippets Setup.
 
 == Changelog ==
 
