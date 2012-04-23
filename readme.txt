@@ -1,5 +1,6 @@
 === The SEO Rich Snippets ===
 Contributors: vulemedia
+Donate link: http://www.searchbyle.com/donate.php?plugin=theseorichsnippets
 Tags: seo, home page, rich snippets, google snippets, google review
 
 The SEO Rich Snippets for home page review website.
