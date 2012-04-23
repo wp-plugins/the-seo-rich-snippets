@@ -1,5 +1,5 @@
 === The SEO Rich Snippets ===
-Contributors: markjaquith, mdawaffe (this should be a list of wordpress.org userid's)
+Contributors: vulemedia
 Tags: seo, home page, rich snippets, google snippets, google review
 
 The SEO Rich Snippets for home page review website.
